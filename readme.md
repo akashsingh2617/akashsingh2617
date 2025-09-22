@@ -23,9 +23,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-singh-21010a227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-singh-21010a227/" height="30" width="40" /></a>
 </p>
-<p>
 ---
- ### **About me**
+<p>
+ ### About me
  My name is Akash Singh. I am a self-motivated individual with a dynamic personality who has quick learning ability and passion for creating new things. I always love to explore new technologies. Sharing knowledge is my best part. I feel that unless you try to do something beyond what you have already mastered, you will never grow. And by sharing the knowledge I always get a chance to get into the depth of the topics what others want to learn from me.
  </p>
 <h3 align="left">Languages and Tools:</h3>
